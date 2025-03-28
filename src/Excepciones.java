@@ -1,2 +1,3 @@
-public class Excepciones {
+public class Excepciones extends Exception {
+    
 }
