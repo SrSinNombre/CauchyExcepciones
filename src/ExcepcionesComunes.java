@@ -32,7 +32,13 @@ public class ExcepcionesComunes {
         } catch (NumberFormatException e) {
             System.out.println("No puedes convertir una cadena a un número tonto " + e.getMessage());
         }
-
+        // Ejemplo 5: ClassCastException
+        try {
+            Object o = new Object();
+            Integer i = (Integer) o;
+        } catch (ClassCastException e) {
+            System.out.println("No puedes convertir un objeto tipo" + e.getMessage());
+        }
     }
 }
 
