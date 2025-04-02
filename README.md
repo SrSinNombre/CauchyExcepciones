@@ -1,3 +1,3 @@
 # CauchyExcepciones
-Nico por dios controlate.
-Grupo conformado por Faith (el mas gay), Aitorpedo Nuclear, Nicolas Marciano Calamardo y Adrián Azuquinky
+
+Grupo conformado por Fateeh Gulijev, Adrián Ruesga, Nicolas Calabuig y Aitor Barrios.
